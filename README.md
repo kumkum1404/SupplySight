@@ -153,5 +153,5 @@ The application creates additional analytical fields including:
 
 ```text
 Delivered to Client Date
-        -
+       -
 Scheduled Delivery Date
