@@ -1,8 +1,8 @@
-# 🚚 LogiGuard — Supply Chain Intelligence Dashboard
+# 🚚 SupplySight — Supply Chain Intelligence Dashboard
 
 An interactive **Supply Chain Intelligence & Delivery Performance Analytics Dashboard** built with Python, Streamlit, Pandas, NumPy, and Plotly.
 
-LogiGuard helps analyze shipment performance, delivery delays, vendor risk, country-level performance, shipment modes, freight costs, and overall data quality through an interactive business dashboard.
+SupplySight helps analyze shipment performance, delivery delays, vendor risk, country-level performance, shipment modes, freight costs, and overall data quality through an interactive business dashboard.
 
 ---
 
@@ -10,7 +10,7 @@ LogiGuard helps analyze shipment performance, delivery delays, vendor risk, coun
 
 Supply chain operations generate large amounts of shipment and delivery data. Analyzing this data manually can make it difficult to identify delivery delays, high-risk vendors, problematic countries, and operational inefficiencies.
 
-**LogiGuard** transforms raw shipment data into an interactive analytics dashboard that enables users to:
+**SupplySight** transforms raw shipment data into an interactive analytics dashboard that enables users to:
 
 - Monitor delivery performance
 - Identify delayed shipments
@@ -119,7 +119,7 @@ The page also provides a **Download Filtered Data** option for exporting selecte
 
 ## 📈 Dashboard KPIs
 
-LogiGuard calculates the following key performance indicators:
+SupplySight calculates the following key performance indicators:
 
 | KPI | Description |
 |---|---|
