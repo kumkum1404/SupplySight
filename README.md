@@ -6,7 +6,7 @@ SupplySight helps analyze shipment performance, delivery delays, vendor risk, co
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Supply chain operations generate large amounts of shipment and delivery data. Analyzing this data manually can make it difficult to identify delivery delays, high-risk vendors, problematic countries, and operational inefficiencies.
 
@@ -24,9 +24,9 @@ Supply chain operations generate large amounts of shipment and delivery data. An
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🏠 Executive Overview
+### Executive Overview
 
 The Home dashboard provides high-level supply-chain KPIs including:
 
@@ -48,7 +48,7 @@ It also provides visual insights into:
 
 ---
 
-### 📦 Shipment Performance
+### Shipment Performance
 
 The Shipment Performance page provides detailed comparisons across:
 
@@ -67,7 +67,7 @@ Interactive charts and tables make it easier to identify underperforming logisti
 
 ---
 
-### 🔍 Root Cause Analysis
+### Root Cause Analysis
 
 The Root Cause Analysis section identifies areas where shipment delays are concentrated.
 
@@ -81,7 +81,7 @@ This helps users identify potential operational bottlenecks and prioritize areas
 
 ---
 
-### 🧹 Data Quality Monitor
+### Data Quality Monitor
 
 The Data Quality page provides an overview of the underlying dataset.
 
@@ -100,7 +100,7 @@ This helps ensure that analytics are based on clean and reliable data.
 
 ---
 
-### 🔎 Shipment Explorer
+### Shipment Explorer
 
 The Shipment Explorer allows users to search and investigate individual shipment records.
 
@@ -117,7 +117,7 @@ The page also provides a **Download Filtered Data** option for exporting selecte
 
 ---
 
-## 📈 Dashboard KPIs
+## Dashboard KPIs
 
 SupplySight calculates the following key performance indicators:
 
@@ -131,7 +131,7 @@ SupplySight calculates the following key performance indicators:
 
 ---
 
-## 🧮 Data Processing & Feature Engineering
+## Data Processing & Feature Engineering
 
 The application performs several data preparation steps before visualization.
 
